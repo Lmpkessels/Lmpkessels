@@ -2,8 +2,7 @@
 
 **A low-level systems engineer who is passionate about blockchain development and cryptographic algorithms.**
 
-- I'm currently working on developing my own toy blockchain in Rust
-- I'm currently learning Networking in C
+- I'm currently learning DSA in C
 
 <hr>
 
@@ -11,7 +10,7 @@
 
 - [l@lmpkessels.com](mailto:l@lmpkessels.com)
 - [X/Twitter](https://x.com/lmpkessels)
-- [LinkedIn](www.linkedin.com/in/lmpkessels)
+- [LinkedIn](https://linkedin.com/in/lmpkessels)
 
 <hr>
 
