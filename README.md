@@ -2,7 +2,7 @@
 
 **A low-level systems engineer who is passionate about blockchain development and cryptographic algorithms.**
 
-- I'm currently learning DSA in C
+- I'm currently working on a dynamic vector library in C
 
 <hr>
 
