@@ -1,10 +1,20 @@
 # I'm Luuk Kessels
 
-**A low-level systems engineer who is passionate about blockchain development and cryptographic algorithms.**
+**A low-level systems engineer who is passionate about blockchain, computer architecture, operating systems and, algorithms.**
 
-- I'm currently working on a dynamic vector library in C
+- I'm currently working on a DSA repository in C
+- I'm currently learning DSA architecture
 
 <hr>
+
+## Projects
+
+- [DSA in C](https://github.com/Lmpkessels/dsa)
+- [Arithmetic Logic Unit in Rust](https://github.com/Lmpkessels/arithmetic-logic-unit)
+- [Cryptographic Algorithms in Rust](https://github.com/Lmpkessels/cryptographic-algorithms)
+- [Virtual Machine in Rust](https://github.com/Lmpkessels/virtual-machine)
+- [Website Blocker in Rust](https://github.com/Lmpkessels/blocker)
+- [Blog in Python, HTML, CSS and, JS](https://github.com/Lmpkessels/blog)
 
 ## Reach me at:
 
