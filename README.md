@@ -16,6 +16,8 @@
 - [Website Blocker in Rust](https://github.com/Lmpkessels/blocker)
 - [Blog in Python, HTML, CSS and, JS](https://github.com/Lmpkessels/blog)
 
+<hr>
+
 ## Reach me at:
 
 - [l@lmpkessels.com](mailto:l@lmpkessels.com)
