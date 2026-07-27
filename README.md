@@ -37,7 +37,7 @@ Here you find writing about my current understanding of things I've built.
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,c++,python" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python" />
 </p>
 
 <hr>
