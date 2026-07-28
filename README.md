@@ -22,7 +22,6 @@
 
 - [l@lmpkessels.com](mailto:l@lmpkessels.com)
 - [X/Twitter](https://x.com/lmpkessels)
-- [LinkedIn](https://linkedin.com/in/lmpkessels)
 
 <hr>
 
