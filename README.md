@@ -9,6 +9,7 @@
 
 ## Projects
 
+- [TLPI experiments in C](https://github.com/Lmpkessels/TLPI)
 - [DSA in C](https://github.com/Lmpkessels/dsa)
 - [Arithmetic Logic Unit in Rust](https://github.com/Lmpkessels/arithmetic-logic-unit)
 - [Cryptographic Algorithms in Rust](https://github.com/Lmpkessels/cryptographic-algorithms)
