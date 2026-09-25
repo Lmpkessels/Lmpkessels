@@ -2,8 +2,10 @@
 
 **A low-level systems engineer who is passionate about blockchain, computer architecture, operating systems and, algorithms.**
 
-- I'm currently learning the C++ programming language
+- I'm currently deepening my understanding of the C programming language
 - I'm currently working on a DSA repository in C
+- I'm currently reading and going through the exercises of TLPI and OSTEP
+- I installed Arch to gain a deeper understanding of Linux
 
 <hr>
 
